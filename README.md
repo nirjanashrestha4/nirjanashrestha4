@@ -10,7 +10,7 @@ Python / SQL / Excel / PowerBi / Machine Learning / Statistics
 - 🌱 I’m currently learning Python, Artificial Intelligence, Mathematics and Statistics.📊 
 
 
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/nirjanashrestha4)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/nirjanashrestha/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/medium.svg' alt='medium' height='40'>](medium.com/@nirjanashrestha23)  
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/nirjanashrestha4)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/nirjanashrestha/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/medium.svg' alt='medium' height='40'>](https://www.medium.com/@nirjanashrestha23)  
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=nirjanashrestha4&show_icons=true)  
 
