@@ -1,9 +1,7 @@
 ### 👋 Hi, I’m Nirjana Shrestha 
 ![Nirjana Shrestha cover](https://github.com/nirjanashrestha4/nirjanashrestha4/assets/167171103/592bd378-eb32-4cf2-8af6-6b630d5d73f2)
 
-![](https://i.pinimg.com/474x/69/51/4f/69514f18d3fefb113c750c47ed4b2316.jpg)
-
-I am from Nepal living in Sydney, Australia. I'm doing a Master of ICT Research in Data Analytics. 
+I am from Nepal living in Sydney, Australia. I am currently pursuing a Master of ICT Research in Sydney, Australia. In my first trimester, I delved into Data Science, Mathematical and Statistical Methods, and Artificial Intelligence, achieving high distinctions in two of these subjects and a distinction in the other. My enthusiasm for these topics led me to excel academically and actively seek additional projects beyond my coursework. I have successfully completed three projects and continue to explore further opportunities to expand my knowledge and skills in these areas.
 
 ## Skills
 Python / SQL / Excel / PowerBi / Machine Learning / Statistics
