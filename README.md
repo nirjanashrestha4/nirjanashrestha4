@@ -1,4 +1,6 @@
 ### 👋 Hi, I’m Nirjana Shrestha 
+![Nirjana Shrestha cover](https://github.com/nirjanashrestha4/nirjanashrestha4/assets/167171103/592bd378-eb32-4cf2-8af6-6b630d5d73f2)
+
 ![](https://i.pinimg.com/474x/69/51/4f/69514f18d3fefb113c750c47ed4b2316.jpg)
 
 I am from Nepal living in Sydney, Australia. I'm doing a Master of ICT Research in Data Analytics. 
