@@ -32,10 +32,9 @@ Python / SQL / Excel / PowerBi / Machine Learning / Statistics
 </div>
 
 <h3 align="left">Connect with me:</h3>
-<p align="left">
 
 [<img src='https://upload.wikimedia.org/wikipedia/commons/thumb/a/ae/Github-desktop-logo-symbol.svg/2048px-Github-desktop-logo-symbol.svg.png' alt='github' height='40'>](https://github.com/nirjanashrestha4)  [<img src='https://cdn1.iconfinder.com/data/icons/logotypes/32/circle-linkedin-512.png' alt='linkedin' height='40'>](https://www.linkedin.com/in/nirjanashrestha/)  [<img src='https://w7.pngwing.com/pngs/194/410/png-transparent-medium-medium-logo-social-media-circle-icon.png' alt='medium' height='40'>](https://www.medium.com/@nirjanashrestha23)  
-</p>
+
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=nirjanashrestha4&&layout=compact&theme=vision-friendly-dark)  
 ![GitHub stats](https://github-readme-streak-stats.herokuapp.com/?user=nirjanashrestha4&layout=compact&theme=vision-friendly-dark)
 
